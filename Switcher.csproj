@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net48</TargetFramework>
+    <UseWPF>true</UseWPF>
+    <EnableWindowsTargeting>true</EnableWindowsTargeting>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable><LangVersion>latest</LangVersion>
+    <AssemblyName>TinyScholar_Sims3_Pack_Mods_Folder_Switcher_v1.03</AssemblyName>
+    <Version>1.3.0</Version>
+    <InformationalVersion>1.03</InformationalVersion>
+    <ApplicationManifest>app.manifest</ApplicationManifest>
+    <DebugType>none</DebugType>
+    <ApplicationIcon>Switcher.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup><Resource Include="Assets/*.png;Switcher.ico" /></ItemGroup>
+  <ItemGroup><Compile Remove="Tests/**/*.cs" /></ItemGroup>
+<ItemGroup><PackageReference Include="Microsoft.NETFramework.ReferenceAssemblies" Version="1.0.3" PrivateAssets="all"/><Reference Include="System.Runtime.Serialization"/><Reference Include="System.Windows.Forms"/></ItemGroup></Project>
