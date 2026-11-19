@@ -44,4 +44,4 @@ I used ChatGPT to help write and revise the program's code, and tested the progr
 
 ## License
 
-The source code is available under the [MIT License](LICENSE).
+The source code is available under the [PolyForm Noncommercial License 1.0.0](LICENSE.txt).
