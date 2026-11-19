@@ -44,7 +44,7 @@ I used ChatGPT to help write and revise the program's code, and tested the progr
 
 ## License
 
-Licensed under the [PolyForm Noncommercial License 1.0.0](LICENSE.txt).
+Licensed under the [PolyForm Noncommercial License 1.0.0](LICENSE.md).
 
 Use, modification and redistribution must comply with its noncommercial terms.
 
