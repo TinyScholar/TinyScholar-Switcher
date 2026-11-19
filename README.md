@@ -44,4 +44,10 @@ I used ChatGPT to help write and revise the program's code, and tested the progr
 
 ## License
 
-The source code is available under the [PolyForm Noncommercial License 1.0.0](LICENSE.txt).
+## License
+
+Licensed under the [PolyForm Noncommercial License 1.0.0](LICENSE.txt).
+
+Use, modification and redistribution must comply with its noncommercial terms.
+
+Required Notice: Copyright TinyScholar (2026)
